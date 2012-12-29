@@ -1,0 +1,4 @@
+It depends libusb >= 1.0.
+
+Usage:
+        dnw-enhanced --idVendor <vendor id> --idProduct <product id> --file <file>
